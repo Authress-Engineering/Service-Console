@@ -31,3 +31,7 @@ Quickly deploy an HA application without needing to understand all the AWS servi
 Curious about more details, join our community:
 * [Slack Workspace](https://bit.ly/authress-community)
 * [Discord Server](https://discord.gg/TSaFbA6)
+
+## Interesting adjacencies
+* https://backstage.io/
+* https://spacelift.io/
